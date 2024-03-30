@@ -1,0 +1,5 @@
+===
+cor.java:3: error: class lapis_de_cor is public, should be declared in a file named lapis_de_cor.java
+public class lapis_de_cor {
+       ^
+1 error

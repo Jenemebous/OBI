@@ -1,0 +1,10 @@
+Sobre catador.c: erro: 2015f2ps_catador.c: In function ‘main’:
+2015f2ps_catador.c:5:5: warning: ignoring return value of ‘scanf’, declared with attribute warn_unused_result [-Wunused-result]
+    5 |     scanf("%d %d", &N, &M);
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+2015f2ps_catador.c:9:9: warning: ignoring return value of ‘scanf’, declared with attribute warn_unused_result [-Wunused-result]
+    9 |         scanf("%d", &baldes[i]);
+      |         ^~~~~~~~~~~~~~~~~~~~~~~
+2015f2ps_catador.c:14:9: warning: ignoring return value of ‘scanf’, declared with attribute warn_unused_result [-Wunused-result]
+   14 |         scanf("%d", &operacoes[i]);
+      |         ^~~~~~~~~~~~~~~~~~~~~~~~~~

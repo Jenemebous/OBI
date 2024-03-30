@@ -1,0 +1,5 @@
+sobre napolitava.java: erro ===
+napolitano.java:4: error: class numeronapolitano is public, should be declared in a file named numeronapolitano.java
+public class numeronapolitano {
+       ^
+1 error

@@ -1,0 +1,1 @@
+Sobre napolitano.js: Erro durante a execução (código de retorno diferente de zero)
